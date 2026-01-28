@@ -1,12 +1,35 @@
-# React + Vite
+# 💼 Portfolio — Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome! This repository contains the source code for my **personal portfolio website** — a React + Vite project that showcases my skills, projects, and contact details.
 
-Currently, two official plugins are available:
+This project serves as my digital presence where visitors can explore my work and learn more about me as a developer. :contentReference[oaicite:1]{index=1}
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> ✨ If deployed live (e.g., GitHub Pages / Vercel / Netlify), add your hosted link here  
+> Example: `https://yourusername.github.io/Portfolio`
+
+---
+
+## 🧠 About
+
+This portfolio is built using **React** and **Vite** (a fast development tool), and styled with modern CSS (you can add Tailwind, Bootstrap, etc.).  
+It displays my skills, projects with links/screenshots, About section, and Contact information — making it easy for potential collaborators or employers to understand my capabilities quickly. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React** — UI library for building components
+- 🚀 **Vite** — Fast build tooling
+- 💅 **CSS / Tailwind / Styled Components** *(as used in your project)*
+- 📦 **JavaScript (ES6+)**
+- 📄 **HTML5**  
+*(Update this list based on exactly what your project uses)* :contentReference[oaicite:3]{index=3}
+
+---
+
+## 📁 Project Structure
+
