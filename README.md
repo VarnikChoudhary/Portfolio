@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # ⚡ Portfolio - Varnik Choudhary
 
 Welcome to my personal portfolio repository! This project is a responsive, single-page application built with **React** and **Vite** to showcase my skills, professional experience, and projects.
@@ -15,6 +15,7 @@ Welcome to my personal portfolio repository! This project is a responsive, singl
 
 ## 📂 Project Structure
 
+```
 The project is organized into modular components as seen in the source code:
 
 ```text
